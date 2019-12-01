@@ -90,6 +90,9 @@ class Homepage extends Component {
 	}
 }
 
+// git remote add origin https://github.com/Hilmawanh/new-react-redux.git
+
+
 const mapStateToProps = state => {
 	return {
 		counter: state.counter
